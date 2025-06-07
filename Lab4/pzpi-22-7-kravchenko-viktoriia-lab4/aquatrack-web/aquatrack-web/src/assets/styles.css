@@ -1,0 +1,37 @@
+/* src/assets/styles.css */
+.form-container {
+  width: 300px;
+  margin: 60px auto;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
+  background: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+.form-container h2 {
+  text-align: center;
+}
+
+.form-container label {
+  display: block;
+  margin-top: 10px;
+}
+
+.form-container input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  box-sizing: border-box;
+}
+
+.form-container button {
+  margin-top: 15px;
+  padding: 10px;
+  width: 100%;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
