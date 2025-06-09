@@ -1,0 +1,33 @@
+
+<resources>
+    <string name="app_name">AquaTrack</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="toggle_language">Switch to Ukrainian</string>
+    <string name="login">Login</string>
+    <string name="go_to_register">Register</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="user_registered">User successfully registered!</string>
+    <string name="enter_email_password">Please enter email and password</string>
+    <string name="login_success">Login successful</string>
+    <string name="invalid_credentials">Invalid email or password</string>
+    <string name="monitoring">Monitoring</string>
+    <string name="limits">Limits</string>
+    <string name="select_period">Select period</string>
+    <string name="show_data">Show data</string>
+    <string name="usage_result">Usage from %1$s to %2$s</string>
+    <string name="create_limit">Create limit</string>
+    <string name="enter_water">Enter water amount</string>
+    <string name="enter_device">Enter device number</string>
+    <string name="check_limits">Check all limits</string>
+    <string name="delete_limit">Delete limit</string>
+    <string name="limit_set">Limit set from %1$s to %2$s: %3$s L for device %4$s</string>
+    <string name="limits_list_stub">Current limits: ...</string>
+    <string name="limit_deleted">Limit deleted</string>
+    <string name="change_language">Change language</string>
+
+
+</resources>

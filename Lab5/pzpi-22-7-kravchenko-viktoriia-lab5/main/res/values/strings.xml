@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AquaTrack</string>
+    <string name="username">Ім’я користувача</string>
+    <string name="email">Електронна пошта</string>
+    <string name="password">Пароль</string>
+    <string name="register">Зареєструватись</string>
+    <string name="back_to_login">Повернутись до логіну</string>
+    <string name="toggle_language">Змінити мову на англійську</string>
+    <string name="login">Увійти</string>
+    <string name="go_to_register">Реєстрація</string>
+    <string name="fill_all_fields">Будь ласка, заповніть усі поля</string>
+    <string name="user_registered">Користувача зареєстровано!</string>
+    <string name="enter_email_password">Введіть пошту та пароль</string>
+    <string name="login_success">Авторизація успішна</string>
+    <string name="invalid_credentials">Невірна пошта або пароль</string>
+    <string name="monitoring">Моніторинг</string>
+    <string name="limits">Ліміти</string>
+    <string name="select_period">Оберіть період</string>
+    <string name="show_data">Показати дані</string>
+    <string name="usage_result">Використання з %1$s по %2$s</string>
+    <string name="create_limit">Створити ліміт</string>
+    <string name="enter_water">Введіть кількість води</string>
+    <string name="enter_device">Введіть номер пристрою</string>
+    <string name="check_limits">Перевірити всі ліміти</string>
+    <string name="delete_limit">Видалити ліміт</string>
+    <string name="limit_set">Ліміт встановлено з %1$s по %2$s: %3$s л. для пристрою %4$s</string>
+    <string name="limits_list_stub">Поточні ліміти: ...</string>
+    <string name="limit_deleted">Ліміт видалено</string>
+    <string name="change_language">Змінити мову</string>
+
+
+</resources>
